@@ -1,0 +1,35 @@
+{
+  "companyName": "Tech Corp",
+  "employees": [
+    {
+      "id": 1,
+      "name": "Kent",
+      "position": "Developer",
+      "location": "Davao"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "position": "Developer",
+      "location": "San Francisco"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "position": "Tester",
+      "location": "London"
+    },
+    {
+      "id": 4,
+      "name": "Diana",
+      "position": "Designer",
+      "location": "Berlin"
+    },
+    {
+      "id": 5,
+      "name": "Eve",
+      "position": "Analyst",
+      "location": "Tokyo"
+    }
+  ]
+}
